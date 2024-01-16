@@ -3,7 +3,7 @@ This project was completed as part of the Codecademy Back-End Engineering course
 
 The purpose of this project was to work with a mock book store database and create multiple indexes and test their impact on query speed and table size. 
 
-Part 1 of the project includes basic indexting and part 2 inludes more avanced indexing such as multi-column and partial indexing.
+[Part 1](https://github.com/MelindaH26/practice-projects/blob/main/sql/creating-and-testing-indexes/creating-and-testing-indexes-part-1.sql) of the project includes basic indexting and [Part 2](https://github.com/MelindaH26/practice-projects/blob/main/sql/creating-and-testing-indexes/creating-and-testing-indexes-part-2.sql) inludes more avanced indexing such as multi-column and partial indexing.
 
 It is worth noting that the database used in this exercise wasn't at a large enough size to benefit from using these indexes. It is also important to weight up the pros and cons of an index depending on the needs of a particular database and its users. While an index might make it quicker to query a database, it will negatively impact file sizes and the speed of INSERT, UPDATE, or DELETE statements.
 
