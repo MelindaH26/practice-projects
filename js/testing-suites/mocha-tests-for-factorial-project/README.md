@@ -1,0 +1,4 @@
+# Writing Simple Tests With Mocha for Factorial Project
+This project was completed as part of the Codecademy Back-End Engineering course. The goal of this project was to write a simple project that can calculate factorials using TDD (test driven development). This project was good practice with using the *red-green-refactor* cycle. I also made sure to separate each test into *setup, exercise* and *verify* stages to keep easy to read and maintain.
+
+I decided to upload this project to show what I've been learning and file it for future reference. I look forward to trying out TDD in a larger project in the future.
