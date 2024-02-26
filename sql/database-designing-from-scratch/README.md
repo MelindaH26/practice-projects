@@ -6,6 +6,9 @@ The goal of this project was to design a database of your choosing, plan out the
 
 For this project I decided to design a database for an appointment booking system for a business that has more than one location. E.g. A medical clinic that has more than one location with multiple doctors who can work at multiple locations, and patients can that can book an appointment a clinic of their choosing.
 
+## Tools
+- The database schema for this project was designed with [DB Designer](https://www.dbdesigner.net/)
+
 ## Outcome
 Throughout this project I learnt a lot about database design, types of table relationships as well as Primary and Foreign keys. 
 
